@@ -1,1 +1,1 @@
-# terraform-aws-interactive-learning-tasks
+# interactive-learning-tasks
